@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
        <div className={styles.hero}>
        <Image 
-                                src="/Book-of-Galatians.jpg"
+                                src="/Galatians-5-1-meaning.jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
