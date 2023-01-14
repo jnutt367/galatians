@@ -25,6 +25,7 @@ export default function Home() {
                           
        <a href="https://the-holy-bible.vercel.app/" target="_blank">
             <button className={styles.button}>HOME</button>
+        </a>
      <a  href="https://second-corinthians.vercel.app/" >
             <button className={styles.button}>Prev</button>
         </a>
