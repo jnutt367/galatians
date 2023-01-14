@@ -12,11 +12,11 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
-         <a href="https://en.wikipedia.org/wiki/Galatians">Galatians</a>
+         <a href="https://en.wikipedia.org/wiki/Galatians">The Book Of</a>
         </h1>
        <div className={styles.hero}>
        <Image 
-                                src="/Galatians-5-1-meaning.jpg"
+                                src="/Galatians_1.jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
@@ -25,10 +25,12 @@ export default function Home() {
                           
        <a href="https://the-holy-bible.vercel.app/" target="_blank">
             <button className={styles.button}>HOME</button>
-       </a>
-         <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>BOOKMARK</button>
-       </a>           
+     <a  href="https://second-corinthians.vercel.app/" >
+            <button className={styles.button}>Prev</button>
+        </a>
+          <a  href="https://ephesians.vercel.app/" >
+            <button className={styles.button}>Next</button>
+        </a>    
     
 
         <div className={styles.grid}>
