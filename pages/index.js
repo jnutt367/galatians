@@ -12,11 +12,11 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
-    The Book Of
+   GALATIANS
         </h1>
        <div className={styles.hero}>
        <Image 
-                                src="/Galatians_1.jpg"
+                                src="/pexels-photo-4200823.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
