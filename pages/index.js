@@ -15,6 +15,7 @@ export default function Home() {
    GALATIANS
         </h1>
        <div className={styles.hero}>
+         <div className={styles.image}>
        <Image 
                                 src="/ascension2.jpg"
                                 alt="Jesus teaching"
@@ -22,22 +23,40 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                 <div className={styles.nav}>         
-                     <a href="https://the-holy-bible.vercel.app/">
-                          <button className={styles.button}> HOME </button>
-                     </a>
+          </div>                        
+                        <div className={styles.nav}>           
+      <a href="https://second-corinthians.vercel.app/">
+             <Image 
+                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
+       </a>
 
-                       <a href="#PayPalButton">
-                          <button className={styles.button}>CONTRIBUTE </button>
-                      </a> 
-                       <a href="https://second-corinthians.vercel.app/">
-                          <button className={styles.button}>PREV </button>
-                     </a>           
-                      <a href="https://ephesians.vercel.app/">
-                          <button className={styles.button}>NEXT > </button>
-                     </a>           
-              </div>
-
+         <a href="#PayPalButton">
+            <Image 
+                                src="/SCROLL-DOWN-button-kopie1.gif"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://ephesians.vercel.app/">
+           <Image 
+                                src="/jean_victor_balin_arrow_orange_right.png"
+                                alt="Jesus"
+                                 height={100}
+                                width={100}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2>Chapter 1 &darr; scroll &darr;</h2>
