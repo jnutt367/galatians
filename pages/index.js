@@ -17,7 +17,7 @@ export default function Home() {
        <div className={styles.hero}>
          <div className={styles.image}>
        <Image 
-                                src="/ascension2.jpg"
+                                src="/ascension-day-wallpaper-background-pslbo.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
