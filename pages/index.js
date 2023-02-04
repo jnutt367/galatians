@@ -11,10 +11,17 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1 className={styles.title}>
-   GALATIANS
-        </h1>
+      
        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE HOLY</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+       GALATIANS
+        </h1>
+         
          <div className={styles.image}>
        <Image 
                                 src="/ascension-day-wallpaper-background-pslbo.webp"
