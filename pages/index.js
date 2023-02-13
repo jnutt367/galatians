@@ -34,7 +34,7 @@ export default function Home() {
                         <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/">
              <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                src="/left-arrow.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
@@ -54,7 +54,7 @@ export default function Home() {
         </a> 
          <a href="https://ephesians.vercel.app/">
            <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
+                                src="/right-arrow.jpg"
                                 alt="Jesus"
                                  height={100}
                                 width={100}
@@ -66,7 +66,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Chapter 1 &darr; scroll &darr;</h2>
+            <h2  className={styles.chapter}>Galatians Chapter I</h2>
             <p>1 Paul, an apostle—sent not from men nor by a man, but by Jesus Christ and God the Father, who raised him from the dead— 2 and all the brothers and sisters[a] with me,
 
 To the churches in Galatia:
@@ -89,7 +89,7 @@ Paul Called by God
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr; scroll &darr;</h2>
+              <h2  className={styles.chapter}>Galatians Chapter II</h2>
             <p>Paul Accepted by the Apostles
 2 Then after fourteen years, I went up again to Jerusalem, this time with Barnabas. I took Titus along also. 2 I went in response to a revelation and, meeting privately with those esteemed as leaders, I presented to them the gospel that I preach among the Gentiles. I wanted to be sure I was not running and had not been running my race in vain. 3 Yet not even Titus, who was with me, was compelled to be circumcised, even though he was a Greek. 4 This matter arose because some false believers had infiltrated our ranks to spy on the freedom we have in Christ Jesus and to make us slaves. 5 We did not give in to them for a moment, so that the truth of the gospel might be preserved for you.
 
