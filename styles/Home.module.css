@@ -1,12 +1,13 @@
 .container {
     
-    background-color: white;
+    background-color: black;
     background-repeat: no-repeat;
+    position: relative;
 }
 .holy {
   backgroud-color: silver;
   text-shadow: #ffa500 1px 0 10px;
-  color: black;
+  color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   top: 52px;
@@ -23,7 +24,7 @@
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: #ffa500 1px 0 10px;
-  color: black;
+  color: white;
   font-size: 64px;
   padding-left: 5px;
   display: grid;
@@ -34,7 +35,7 @@
 
 
 .main {
-    background-color: white;
+    background-color: black;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
@@ -118,14 +119,18 @@
 
 
 .title {
-  color: black;
-  position: relative;
-  top: -50px;
+  color: white;
+  position: sticky; 
+  background-color: black;
+  opacity: 0.5;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  z-index: 1;
+  top: 0px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  text-shadow: #ffa500 1px 0 10px;
+  text-shadow: #ffa500 2px 0 15px;
   font-size: 64px;
-  margin-bottom: 1rem;
 }
 
 .instructions {
@@ -229,12 +234,15 @@
 }
 
 .card {
-    background-image: url(/haga-clic-aquí-botón.webp);
-    background-size: cover;
+    background-image: url(/depositphotos_211313724-stock-photo-read-icon-read-website-button.jpg);
+    background-size:contain;
+    display: grid;
+    place-items: center;
     background-repeat: no-repeat;
     color: transparent;
     background-color: white;
     margin: 1.5rem;
+    margin-bottom: 5rem;
     padding: 1.5rem;
     text-align: left;
     max-height: 400px;
@@ -246,7 +254,17 @@
     max-width: 400px;
     font-family: monospace;
 }
-
+.chapter {
+    color: black;
+    position: sticky; 
+    z-index: 1;
+    text-align: center;
+    top: -30px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
 .card:hover,
 .card:focus,
 .card:active {
@@ -337,11 +355,6 @@
     .flex {
         display: grid;
     }
-    .card {
-       margin: 0;
-       margin-top: 5rem;
-       max-width: 100%;
-    }
     .image {
         padding: 0;
     }
@@ -359,5 +372,9 @@
     }
     .title  {
     font-size: 36px;
+    }
+    .card {
+        margin-right: 0;
+        margin-left: 0;
     }
 }
