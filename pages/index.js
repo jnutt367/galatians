@@ -34,30 +34,30 @@ export default function Home() {
                         <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/">
              <Image 
-                                src="/left-arrow.jpg"
-                                alt="Jesus"
-                                 height={100}
-                                width={100}
+                                src="/chevron-left.svg"
+                                alt="left"
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
             <Image 
-                                src="/SCROLL-DOWN-button-kopie1.gif"
-                                alt="Jesus"
-                                 height={100}
-                                width={100}
+                                src="/chevron-down.svg"
+                                alt="down"
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
         </a> 
          <a href="https://ephesians.vercel.app/">
            <Image 
-                                src="/right-arrow.jpg"
+                                src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
