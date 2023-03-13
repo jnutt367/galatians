@@ -64,7 +64,8 @@ export default function Home() {
         </a> 
          
                </div>
-    <p className={styles.fund}>"Do not be deceived: God cannot be mocked. A man reaps what he sows. Whoever sows to please their flesh, from the flesh will reap destruction; whoever sows to please the Spirit, from the Spirit will reap eternal life. Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up." (Galatians 6:7-9)</p>
+    <p className={styles.fund}>"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.
+Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers." (Galatians 6:9-10)</p>
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2  className={styles.chapter}>Galatians Chapter I</h2>
