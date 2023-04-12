@@ -30,34 +30,31 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
+                               <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
           </div>                        
                         <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/">
              <Image 
                                 src="/chevron-left.svg"
                                 alt="left"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
-         <a href="#PayPalButton">
-            <Image 
-                                src="/chevron-down.svg"
-                                alt="down"
-                                 height={25}
-                                width={25}
-                                priority
-                              />
-           
-        </a> 
+         <a href="https://gofund.me/a2b590af">
+             <p className={styles.donate}>
+               Support <br />
+                  Creator
+               </p>
+       </a>
          <a href="https://ephesians.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
