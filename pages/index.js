@@ -46,12 +46,18 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://gofund.me/a2b590af">
-             <p className={styles.donate}>
-               Support <br />
-                  Creator
-               </p>
-       </a>
+         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+  <Image 
+                                src="/youtube-logo-png-hd-21.png"
+                                alt="youtube logo"
+                                 height={75}
+                                width={75}
+                                priority
+                              />
+          
+                                  
+                                  
+        </a>
          <a href="https://ephesians.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
