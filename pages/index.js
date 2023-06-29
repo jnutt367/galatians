@@ -24,7 +24,7 @@ export default function Home() {
          
          <div className={styles.image}>
        <Image 
-                                src="/risen_42"
+                                src="/risen_42.png"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
