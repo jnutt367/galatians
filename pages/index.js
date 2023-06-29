@@ -13,9 +13,9 @@ export default function Home() {
       <main className={styles.main}>
       
        <div className={styles.hero}>
-           <h2 className={styles.holy}>THE HOLY</h2>
+           <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
@@ -24,14 +24,17 @@ export default function Home() {
          
          <div className={styles.image}>
        <Image 
-                                src="/0gnW90.gif"
+                                src="/risen_42"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-                               <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
-          </div>                        
+                             
+          </div>    
+
+
+ <p className={styles.parables}> Paul writes the galatians they are being misled by the Judaizers, who said that they must follow all Moses' laws to be saved.</p>
                         <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/">
              <Image 
@@ -61,8 +64,11 @@ export default function Home() {
         </a> 
          
                </div>
-    <p className={styles.fund}> "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law." (Galatians 5:22)</p>
-        <div className={styles.grid}>
+   <div className={styles.iframe}>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vmx4UjRFp0M" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+   </div>                              
+      
+      <div className={styles.grid}>
           <div className={styles.card}>
             <h2  className={styles.chapter}>Galatians Chapter I</h2>
             <p>1 Paul, an apostle—sent not from men nor by a man, but by Jesus Christ and God the Father, who raised him from the dead— 2 and all the brothers and sisters[a] with me,
