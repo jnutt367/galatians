@@ -34,7 +34,7 @@ export default function Home() {
           </div>    
 
 
- <p className={styles.parables}> Paul writes the galatians they are being misled by the Judaizers, who said that they must follow all Moses' laws to be saved.</p>
+ <p className={styles.parables}> Paul writes Galatia that they're being misled by the Judaizers, who demanded following Moses' laws & circumcision to be saved.</p>
                         <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/">
              <Image 
