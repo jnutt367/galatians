@@ -15,7 +15,7 @@ export default function Home() {
        <div className={styles.hero}>
            <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
@@ -48,8 +48,8 @@ export default function Home() {
 
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
   <Image 
-                                src="/upward_pointing.webp"
-                                alt="home"
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
                                  height={75}
                                 width={90}
                                 priority
