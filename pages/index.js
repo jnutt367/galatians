@@ -121,7 +121,7 @@ Paul Opposes Cephas
 
           <div className={styles.card}
           >
-            <h2>Chapter 3 &darr; scroll &darr;</h2>
+             <h2  className={styles.chapter}>Chapter 3</h2>
             <p>Faith or Works of the Law
 3 You foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified. 2 I would like to learn just one thing from you: Did you receive the Spirit by the works of the law, or by believing what you heard? 3 Are you so foolish? After beginning by means of the Spirit, are you now trying to finish by means of the flesh?[a] 4 Have you experienced[b] so much in vain—if it really was in vain? 5 So again I ask, does God give you his Spirit and work miracles among you by the works of the law, or by your believing what you heard? 6 So also Abraham “believed God, and it was credited to him as righteousness.”[c]
 
@@ -147,7 +147,7 @@ Children of God
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 &darr; scroll &darr;</h2>
+            <h2 className={styles.chapter}>Chapter 4</h2>
             <p>
             4 What I am saying is that as long as an heir is underage, he is no different from a slave, although he owns the whole estate. 2 The heir is subject to guardians and trustees until the time set by his father. 3 So also, when we were underage, we were in slavery under the elemental spiritual forces[a] of the world. 4 But when the set time had fully come, God sent his Son, born of a woman, born under the law, 5 to redeem those under the law, that we might receive adoption to sonship.[b] 6 Because you are his sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, “Abba,[c] Father.” 7 So you are no longer a slave, but God’s child; and since you are his child, God has made you also an heir.
 
@@ -177,7 +177,7 @@ because more are the children of the desolate woman
           <div
             className={styles.card}
           >
-            <h2>Chapter 5 &darr; scroll &darr;</h2>
+             <h2  className={styles.chapter}>Chapter 5</h2>
             <p>
             Freedom in Christ
 5 It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.
@@ -202,7 +202,7 @@ Life by the Spirit
           <div
             className={styles.card}
           >
-            <h2>Chapter 6 &darr; scroll &darr;</h2>
+             <h2 className={styles.chapter}>Chapter 6</h2>
             <p>
             Doing Good to All
 6 Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted. 2 Carry each other’s burdens, and in this way you will fulfill the law of Christ. 3 If anyone thinks they are something when they are not, they deceive themselves. 4 Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else, 5 for each one should carry their own load. 6 Nevertheless, the one who receives instruction in the word should share all good things with their instructor.
