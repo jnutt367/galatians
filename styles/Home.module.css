@@ -271,7 +271,7 @@
 }
 
 .nav {
-    background-color:#ff4500;
+    background-color:#c93636;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -302,7 +302,7 @@
 }
 
 .grid {
-    background-color: #ff4500;
+    background-color: #c93636;
     color: white;
     display: flex;
     align-items: center;
@@ -362,7 +362,7 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: #ff4500;
+    background-color: #c93636;
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -506,6 +506,10 @@
     font-size: 36px;
     }
     .card {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .card2 {
         margin-right: 0;
         margin-left: 0;
     }
