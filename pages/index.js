@@ -224,19 +224,151 @@ Not Circumcision but the New Creation
         </div>
 </div>
       </main>
+  
+<main id="first_peter" className={styles.main}>
+       
+        <div id="first_thessalonians" className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+       I PETER
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/timothy.png"
+                                                    alt="hero image for Thessalonians"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
+                        </div>
+    <p className={styles.parables}>
+
+          Peter is in the construction phase and will be described here!
+</p>                                                      
+                  <div className={styles.nav2}>           
+      <a href="https://second-corinthians.vercel.app/#second_thessalonians">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://mark-alpha.vercel.app/#second_timothy">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+               <div className={styles.iframe}> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7RoqnGcEjcs?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                        
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          <div className={styles.card2}>
+           <h2  className={styles.chapter2}>I Peter Chapter I</h2>
+            <p> 
+
+            </p>
+          </div>
+
+          <div className={styles.card2}>
+            <h2 className={styles.chapter2}>I Peter Chapter II</h2>
+            <p> 
+                   
+            </p>
+          </div>
+
+          <div
+            className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>I Peter Chapter III </h2>
+                    <p>
+                        
+                    </p>
+          </div>
+
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>I Peter Chapter IV </h2>
+            <p>
+                      
+            </p>
+          </div>
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>I Peter Chapter V</h2>
+                              <p> 
+  
+                              </p>
+          </div>
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>I Peter Chapter IV </h2>
+                                <p>
+                             
+
+                                </p>
+  </div>
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <p>
+            I have appended 1 Thessalonians to the bottom of 1 corinthians...
+            I have appended 2 Thessalonians to the bottom of 2 corinthians...
+            I have appended 1 Timothy to the bottom of the gospel of Matthew...
+            I will be appending 2 Timothy to the bottom of the gospel of Mark...
+            I will be appending Titus to the bottom of the gospel of Luke...
+            I will be appending Philemon to the bottom of the gospel of John...
+            I will be appending Hebrews to the bottom of the book of Acts ...
+            I will be appending James ...TBA
+            I will be appending Peter ...TBA
+            I will be appending 2 Peter ...TBA
+            I will be appending 1 John ...TBA
+            I will be appending 2 John ...TBA
+            I will be appending 3 John ...TBA
+            I will be appending Jude ...TBA
+                        More to come on the layout...!
+     </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>
+            
     </div>
   )
 }
