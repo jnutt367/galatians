@@ -237,8 +237,8 @@ Not Circumcision but the New Creation
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/timothy.png"
-                                                    alt="hero image for Thessalonians"
+                                                    src="/peter_hero.png"
+                                                    alt="peter_hero.png"
                                                     height={900}
                                                     width={2000}
                                                     priority
