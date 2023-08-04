@@ -484,7 +484,7 @@ Not Circumcision but the New Creation
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/peter_hero.png"
+                                                    src="/peter2.png"
                                                     alt="peter_hero.png"
                                                     height={900}
                                                     width={2000}
