@@ -480,7 +480,7 @@ Not Circumcision but the New Creation
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         <h1 className={styles.title}>
-       I PETER
+       II PETER
         </h1>
           <div className={styles.image}>
                            <Image 
