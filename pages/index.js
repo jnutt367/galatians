@@ -248,10 +248,10 @@ Not Circumcision but the New Creation
                         </div>
     <p className={styles.parables}>
 
-          Peter is in the construction phase and will be described here!
+         Peter, to persecuted Christians in Asia minor, he urges them to remember how much Jesus suffered for them, and trust Him to care for them.
 </p>                                                      
                   <div className={styles.nav2}>           
-      <a href="https://second-corinthians.vercel.app/#second_thessalonians">
+      <a href="https://romans-five.vercel.app/#james">
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
@@ -271,7 +271,7 @@ Not Circumcision but the New Creation
                                 priority
                               /> 
        </a>
-         <a href="https://mark-alpha.vercel.app/#second_timothy">
+         <a href="https://first-thessalonians.vercel.app/">
            <Image 
                                 src="/next.webp"
                                 alt="next"
