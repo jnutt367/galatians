@@ -250,7 +250,7 @@ Not Circumcision but the New Creation
                         </div>
     <p className={styles.parables}>
 
-         Peter, to persecuted Christians in Asia minor, he urges them to remember how much Jesus suffered for them, and trust Him to care for them.
+         Urges persecuted Christians in Asia minor, to remember how much Jesus suffered for them, & trust Him to care for them.
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">
@@ -493,7 +493,7 @@ Not Circumcision but the New Creation
                         </div>
     <p className={styles.parables}>
 
-         Peter reminds the Christians that the best resistance to false teachings is to grow in the knowledge of our Lord & Savior.
+         Reminds Christians the best resistance to false teachings, to grow in the knowledge of our Lord & Savior.
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">
