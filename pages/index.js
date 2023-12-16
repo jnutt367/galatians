@@ -15,43 +15,40 @@ export default function Home() {
        <div className={styles.hero}>
            <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
        GALATIANS
         </h1>
          
-         <div className={styles.image}>
-       <Image 
-                                src="/judaizers.png"
-                                alt="judaizers.png"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+         <div className={styles.iframe1}>
+      <iframe width="100%" height="300" src="https://www.youtube.com/embed/KgVLE_JVhBs?si=sxT5iNn5zeNtu2GT&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                              
           </div>    
 
 
- <p className={styles.parables}> Paul writes Galatia that they're being misled by the Judaizers, who demanded following Moses' laws & circumcision to be saved.</p>
+ <p className={styles.parables}> Paul writes Galatia they're being misled by the Judaizers, who demanded circumcision to be saved.</p>
                         <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/">
+    <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="left"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+  <p>Give</p>
+                                  
   <Image 
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
           
@@ -59,11 +56,13 @@ export default function Home() {
                                   
         </a>
          <a href="https://ephesians.vercel.app/">
+  <p>Next</p>
+                                  
            <Image 
                                 src="/next.webp"
                                 alt="Jesus"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -235,16 +234,9 @@ Not Circumcision but the New Creation
         <h1 className={styles.title}>
        I PETER
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/peter_hero.png"
-                                                    alt="peter_hero.png"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                        <iframe width="100%" height="300" src="https://www.youtube.com/embed/KgVLE_JVhBs?si=sxT5iNn5zeNtu2GT&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                           
-
                         </div>
     <p className={styles.parables}>
 
@@ -252,31 +244,34 @@ Not Circumcision but the New Creation
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">
+                                                      <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://first-thessalonians.vercel.app/">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -482,15 +477,8 @@ Not Circumcision but the New Creation
         <h1 className={styles.title}>
        II PETER
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/peter2.png"
-                                                    alt="peter_hero.png"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
-                          
+          <div className={styles.iframe1}>
+                          <iframe width="100%" height="300" src="https://www.youtube.com/embed/KgVLE_JVhBs?si=sxT5iNn5zeNtu2GT&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
                         </div>
     <p className={styles.parables}>
@@ -499,31 +487,36 @@ Not Circumcision but the New Creation
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">
+                          <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://first-thessalonians.vercel.app/">
+
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
