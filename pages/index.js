@@ -250,7 +250,7 @@ Not Circumcision but the New Creation
                         </div>
     <p className={styles.parables}>
 
-         Urges Christians in Asia minor, remember how much Jesus suffered for them, & trust Him to care for them.
+         Urges Christians in Asia minor, remember how Jesus suffered for them, & trust Him to care for them.
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://romans-five.vercel.app/#james">
