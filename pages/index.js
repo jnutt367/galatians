@@ -519,7 +519,7 @@ Not Circumcision but the New Creation
                                 priority
                               /> 
        </a>
-         <a href="https://first-thessalonians.vercel.app/">
+         <a href="https://ephesians.vercel.app/#first_john">
 
                                   <p>Next</p>
            <Image 
