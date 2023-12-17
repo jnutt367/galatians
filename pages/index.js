@@ -275,7 +275,7 @@ Not Circumcision but the New Creation
                                 priority
                               /> 
        </a>
-         <a href="https://first-thessalonians.vercel.app/">
+         <a href="https://galatians.vercel.app/#second_peter">
                                   <p>Next</p>
            <Image 
                                 src="/next.webp"
