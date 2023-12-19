@@ -639,7 +639,7 @@
   .parables {
     display: grid;
     text-align: center;
-    color: gold;
+    color: white;
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
@@ -648,11 +648,10 @@
     top: 15px;
     line-height: 2.5em; 
     width: 300px;
-    border: 1px solid white;
     border-radius: 15px;
     background-image: linear-gradient(to bottom right, #C7E0D4,#006600); 
     opacity:0.7;  
-    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
   }
